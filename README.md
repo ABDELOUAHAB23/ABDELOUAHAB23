@@ -1,6 +1,26 @@
-# 💫 About Me:
-👋 Hi there! I'm Abdelouahab Kribaa, a 23-year-old computer science graduate. I recently completed my studies at the Higher School of Technology in Morocco, specializing in application development. During my academic journey, I acquired solid knowledge in various IT fields, including databases, programming languages, and web development.<br><br>🌱 I’m currently exploring Artificial Intelligence and Machine Learning and looking for opportunities to apply my skills in this exciting domain. I am also seeking an internship in AI and machine learning to gain hands-on experience and further deepen my expertise.<br><br>💡 Let’s collaborate on projects or share ideas! Feel free to reach out if you're working on something exciting in AI or software development.
+👋 About Me
 
+Hi, I'm Abdelouahab Kribaa, a 23-year-old passionate about technology and programming. I recently completed my degree in computer science, specializing in application development at the Higher School of Technology in Morocco. During my studies, I gained valuable knowledge in IT, databases, and various programming languages like C++, JavaScript, PHP, and Python.
+
+I'm currently looking to expand my expertise in AI and Machine Learning and would love to collaborate on projects or internships related to these fields. I’m eager to learn and apply AI-driven solutions to real-world problems, particularly in the areas of data analysis and automation.
+
+💡 What I'm currently working on:
+
+Exploring AI and Machine Learning concepts.
+Building and improving my skills in web development and app design.
+🤝 Looking to collaborate on:
+
+AI, Machine Learning, and Data Science projects.
+Open-source projects that enhance my coding skills.
+🚀 Looking for help with:
+
+Gaining practical experience in AI and Machine Learning.
+Finding internships in AI and related fields.
+🌱 Currently learning:
+
+Artificial Intelligence
+Machine Learning Algorithms
+Advanced Python programming
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdokribaa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27328138) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Abdelouahab-KRIBAA) 
