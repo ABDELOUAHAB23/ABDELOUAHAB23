@@ -8,16 +8,16 @@ I'm currently looking to expand my expertise in AI and Machine Learning and woul
 
 Exploring AI and Machine Learning concepts.
 Building and improving my skills in web development and app design.
-🤝 Looking to collaborate on:
 
+🤝 Looking to collaborate on:
 AI, Machine Learning, and Data Science projects.
 Open-source projects that enhance my coding skills.
-🚀 Looking for help with:
 
+🚀 Looking for help with:
 Gaining practical experience in AI and Machine Learning.
 Finding internships in AI and related fields.
-🌱 Currently learning:
 
+🌱 Currently learning:
 Artificial Intelligence
 Machine Learning Algorithms
 Advanced Python programming
